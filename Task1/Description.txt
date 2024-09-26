@@ -1,0 +1,1 @@
+Calculate the integral of 4/(1+x^2) over the interval from [0,1]
